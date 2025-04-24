@@ -91,7 +91,7 @@ Deploy this project easily with Vercel:
 This app is a **prototype for educational purposes**. It should not be used as a replacement for certified medical interpretation. For emergencies, always contact licensed professionals.
 
 ## 📧 Contact
-Wahyu Erlangga - wahyujungde@gmail.com
-Project Link: https://github.com/odewahyu/healthcare-translator
+- Wahyu Erlangga - wahyujungde@gmail.com
+- Project Link: https://github.com/odewahyu/healthcare-translator
 
 
