@@ -71,8 +71,8 @@ Deploy this project easily with Vercel:
 ```
 ## 📋 Usage Guide
 
-1. Select languages (input/output)
-2. Hold microphone button and speak
+1. **Select languages (input/output)**
+2. **Hold microphone button** and **speak**
 3. View real-time transcription
 4. See automatic translation
 5. Click **Speak Translation** button to hear translation
